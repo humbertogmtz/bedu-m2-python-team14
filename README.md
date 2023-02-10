@@ -20,3 +20,9 @@ Agradecimientos y reconocimiento al equipo BEDU, por esta oportunidad que nos ha
  
  - [`Defunciones por diabetes`](https://colab.research.google.com/drive/1xrSTNQmdIkKlFD1bcdJMgOt5CMAe5KdL)
  - [`Manejo de APIs`](https://colab.research.google.com/drive/1hZ2yc4hZ69H5E3OxRn_lAtsuIh2Ow33t)
+
+
+## :bookmark_tabs: Enlaces a Recursos
+ 
+ - [`Presentación`](https://drive.google.com/file/d/1sSoNEYN4P8K9HVJRrFkITvIIFmNQdSyJ/view?usp=sharing)
+ - [`Datasets`](https://drive.google.com/drive/folders/1hqSK5CDljZIJu1_MJa7C1jXPnW3JXPG0)
